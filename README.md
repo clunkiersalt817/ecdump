@@ -1,6 +1,6 @@
 # MSI Bravo 15 B5DD ( 158KEMS1.104 ) EC
 
-## Charge Threadshold
+## Charge Threshold
 
 ```
 address: 0xEF
