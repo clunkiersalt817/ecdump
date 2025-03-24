@@ -54,23 +54,6 @@ possible values: 0x80 ( off ), 0x81 ( low ), 0x82 ( mid ), 0x83 ( high )
 ## Win - Fn Swap
 
 ```
-address: 0xE8
-possible values: 0x01 ( win - fn ), 0x11 ( fn - win )
-```
-
-## USB Power Share
-
-```
 address: 0xBF
-possible values: 0x08 ( off ), 0x28 ( on )
-```
-
-## Sensors
-
-```
-CPU temperature address: 0x68
-GPU temperature address: 0x80
-Battery charge address: 0x42
-Battery charging status address: 0x31
-Fan 1 speed address: 0xC9 ( B5 - 2651, B1 - 2711, CD - 2400, C8 - 2341, etc. but not sure? How they store that value into 1 byte )
+possible values: 0x6A ( win - fn ), 0x7A ( fn - win )
 ```
