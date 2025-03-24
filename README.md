@@ -28,7 +28,7 @@ address: 0x2B
 possible values: 0x80 ( on ), 0x84 ( off )
 ```
 
-## User Scenario ( Performance Mode )
+## User Scenario
 
 ```
 address: 0xF2
