@@ -18,14 +18,14 @@ possible values: 0x4B ( on ), 0x49 ( off )
 
 ```
 address: 0x2B
-possible values: 0x00 ( on ), 0x02 ( off )
+possible values: 0x80 ( on ), 0x84 ( off )
 ```
 
 ## Speaker Mute
 
 ```
-address: 0x2B
-possible values: 0x80 ( on ), 0x84 ( off )
+address: 0x2C
+possible values: 0xC4 ( on ), 0xC0 ( off )
 ```
 
 ## User Scenario
